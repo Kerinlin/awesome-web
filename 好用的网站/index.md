@@ -20,6 +20,8 @@
 
 - [吾爱破解论坛](https://www.52pojie.cn/)
 
+- [moddroid](https://moddroid.co/)
+
 ## 效率工具
 
 - [greasyfork油猴脚本](https://greasyfork.org/zh-CN)
