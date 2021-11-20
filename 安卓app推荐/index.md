@@ -8,17 +8,15 @@
 
 【 下载链接 】: [https://www.coolapk.com/apk/com.cxincx.xxjz](https://www.coolapk.com/apk/com.cxincx.xxjz)
 
+---
+
 - **VMOS Pro**
 
 【 推荐 】： 功能齐全虚拟机，操作简单，适合玩机
 
 【 下载及介绍 】: [https://www.ghxi.com/vmospro.html](https://www.ghxi.com/vmospro.html)
 
-- **剧圈圈**
-
-【 推荐 】： 看美剧，资源更新快，清晰
-
-【 下载及介绍 】: [http://www.2265.com/soft/32618.html](http://www.2265.com/soft/32618.html)
+---
 
 - **厚墨**
 
@@ -26,12 +24,15 @@
 
 【 下载及介绍 】: [https://www.nongjia888.com/app/cn.deepink.reader](https://www.nongjia888.com/app/cn.deepink.reader)
 
+---
+
 - **ES文件管理器**
 
 【 推荐 】： 功能强大，方便管理文件，另外可以绑定网盘，操作网盘
 
 【 下载及介绍 】: [https://www.ghxi.com/esexplorer.html](https://www.ghxi.com/esexplorer.html)
 
+---
 
 - **biubiu加速器**
 
@@ -39,8 +40,18 @@
 
 【 下载及介绍 】: [https://www.biubiu001.com/](https://www.biubiu001.com/)
 
+---
+
 - **ssr**
 
 【 推荐 】： 畅玩互联网没他不行
 
 【 下载及介绍 】: [https://github.com/shadowsocks/shadowsocks-android/releases](https://github.com/shadowsocks/shadowsocks-android/releases)
+
+---
+
+- **kivi浏览器**
+
+【 推荐 】： 可安装扩展的安卓浏览器
+
+【 下载及介绍 】: [https://kiwibrowser.com/](https://kiwibrowser.com/)
