@@ -58,6 +58,8 @@
 
 - [浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 
+- [js运行效率测试jsbench](https://jsbench.me/)
+
 
 ## 优秀博客以及论坛
 
