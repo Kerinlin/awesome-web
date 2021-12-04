@@ -1,0 +1,1 @@
+- [奇技淫巧,黑魔法大集合](https://github.com/tnfe/awesome-blackmagic)
