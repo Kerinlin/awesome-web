@@ -11,7 +11,7 @@
 ## 目录
 
 - [APP推荐](./安卓app推荐/index.md)
-- [windows应用推荐](./windows应用推荐/index.md)
+- [pc应用推荐](./pc应用推荐/index.md)
 - [好用的网站](./好用的网站/index.md)
 - [奇淫技巧](./奇淫技巧/index.md)
 - [有趣的想法观点](./有趣的想法观点/index.md)

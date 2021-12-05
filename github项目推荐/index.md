@@ -1,1 +1,2 @@
 - [奇技淫巧,黑魔法大集合](https://github.com/tnfe/awesome-blackmagic)
+- [HelloGithub(收集有意思的github项目)](https://github.com/521xueweihan/HelloGitHub)
