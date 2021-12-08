@@ -40,6 +40,8 @@
 
 - [开源软件](https://sourceforge.net/)
 
+- [移除图片背景](https://www.remove.bg/)
+
 ## 前端
 
 - [css-tricks](https://css-tricks.com/)

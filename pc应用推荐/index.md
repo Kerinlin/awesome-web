@@ -6,3 +6,4 @@
 
 ## Windows
 - [Dropit(文件自动化处理,可自定义规则,非常方便)](http://www.dropitproject.com/)
+- [Quicker(windows自动化工具，能自动化很多操作)](https://getquicker.net/)
