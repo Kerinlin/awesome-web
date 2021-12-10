@@ -108,3 +108,5 @@
 - [高清影视资源下载](http://seedhub.info/)
 
 - [电鸭社区(远程工作)](https://eleduck.com/)
+
+- [美剧资源下载](https://subdh.com/)
