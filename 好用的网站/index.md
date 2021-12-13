@@ -87,6 +87,8 @@
 
 - [设计灵感聚合dribbble](https://dribbble.com/)
 
+- [一些有趣的机器学习项目聚合](https://huggingface.co/spaces)
+
 ## 区块链
 
 - [登链社区(学习区块链)](https://learnblockchain.cn/)
