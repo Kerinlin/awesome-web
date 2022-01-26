@@ -42,6 +42,8 @@
 
 - [移除图片背景](https://www.remove.bg/)
 
+- [跨设备在线文本分享](https://pasteme.cn/#/)
+
 ## 前端
 
 - [css-tricks](https://css-tricks.com/)
